@@ -2,7 +2,7 @@
 <h3 align="center">Final-Year CS Student | Aspiring Native Android Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Learning+Kotlin+%F0%9F%9A%80;Building+Android+Apps+with+Jetpack+Compose;Aspiring+Freelance+Android+Developer;Publishing+my+first+app+on+Play+Store" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Learning+Kotlin+%F0%9F%9A%80;Android+Apps+with+Jetpack+Compose;Aspiring+Freelance+Android+Developer;Publishing+my+first+app+on+Play+Store" alt="Typing SVG" />                                                                  
 </p>
 
 ---
@@ -56,12 +56,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prince-AppDev&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-AppDev&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-AppDev&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
 
 ---
