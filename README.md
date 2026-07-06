@@ -35,7 +35,7 @@
 | Project | Description | Status |
 |---|---|---|
 | ⚔️ **Mystic Realms V2** | Console-based Kotlin RPG with battle system, inventory, XP & leveling | 🚧 In Progress |
-| ⚔️ **Mystic Realms V1** | First version of the Kotlin RPG — where the journey began | ✅ Completed |
+
 
 ---
 
