@@ -56,20 +56,15 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prince-AppDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prince-AppDev&show_icons=true&theme=radical&hide_border=true"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-AppDev&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-AppDev&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prince-AppDev&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-AppDev&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
 
 </div>
 
