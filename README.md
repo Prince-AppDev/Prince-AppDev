@@ -54,14 +54,34 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prince-AppDev&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-AppDev&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-AppDev&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prince-AppDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-AppDev&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-AppDev&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Prince-AppDev&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prince-AppDev&theme=react-dark&hide_border=true)](https://github.com/Prince-AppDev)
+
+</div>
 
 ---
 
