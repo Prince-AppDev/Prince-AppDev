@@ -25,7 +25,6 @@
 - 🌱 Just starting out — actively learning Kotlin and building projects to get hands-on practice
 - 💼 Goal:  Android Development and publish real apps on the **Play Store**
 - 📚 Learning in public — sharing my journey one commit at a time
-- 
 - ### 🌱 Currently Learning
 - **Jetpack Compose Components** (Buttons, Dividers, etc.)
 - Building small UI practice projects
@@ -36,11 +35,10 @@
 
 ### 📌 Featured Projects
 
-| Project | Description | Status |
-|---|---|---|
-| ⚔️ **Mystic Realms V2** | Console-based Kotlin RPG with battle system, inventory, XP & leveling | 🚧 In Progress |
-
-
+| Project | Tech Stack | Description | Status |
+|---------|-----------|-------------|--------|
+| ⚔️ **Mystic Realms V2** | Kotlin | Console RPG with combat, inventory, XP system | 🚧 In Progress |
+| 📱 **Upcoming: Android UI Project** | Jetpack Compose | Learning Compose fundamentals | 🎓 Planning |
 ---
 
 ### 📈 My Learning Roadmap
