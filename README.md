@@ -26,13 +26,17 @@
 - 💼 Goal:  Android Development and publish real apps on the **Play Store**
 - 📚 Learning in public — sharing my journey one commit at a time
  ---
-- ### 🌱 Currently Learning
-  
-- **Jetpack Compose Components** 
-- Building small UI practice projects
-- Understanding state & recomposition
+ 
+### 🌱 Currently Learning (Right Now)
 
----
+- 🎨 **Jetpack Compose Components** - Buttons, Dividers, Text, Cards
+- 🎓 **Small Practice Projects** - Building UI components
+- 📚 **Understanding State** - How recomposition works
+- 💡 **Best Practices** - Professional code structure
+
+**Next Focus:** Master all Compose components before moving to advanced topics
+
+ ---
 
 
 ### 📌 Featured Projects
@@ -41,18 +45,6 @@
 |---------|-----------|-------------|--------|
 | ⚔️ **Mystic Realms V2** | Kotlin | Console RPG with combat, inventory, XP system | 🚧 In Progress |
 | 📱 **Upcoming: Android UI Project** | Jetpack Compose | Learning Compose fundamentals | 🎓 Planning |
----
-
-### 📈 My Learning Roadmap
-
-- [x] Kotlin Fundamentals (OOP, Null Safety, Lambdas, Scope Functions)
-- [x] Git & GitHub Fundamentals
-- [ ] Android Studio & Android Basics
-- [ ] Jetpack Compose
-- [ ] Room Database
-- [ ] Retrofit & Networking
-- [ ] Firebase Integration
-- [ ] Publish First App to Play Store
 
 ---
 
