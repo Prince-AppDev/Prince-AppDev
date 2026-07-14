@@ -83,7 +83,13 @@
 </div>
 
 ---
+### 🎓 My Learning Philosophy
 
+> I believe in **learning properly** rather than taking shortcuts with AI.
+> 
+> I learn fundamentals first, understand how things work, then use tools to accelerate.
+> This approach takes time, but builds real, lasting skills.
+---
 ### 📫 Connect With Me
 
 <p align="left">
