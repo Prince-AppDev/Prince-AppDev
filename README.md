@@ -19,12 +19,17 @@
 
 ### 🚀 About Me
 
-- 🎓 Final-year student, on a mission to become a **Native Android Developer**
+- 🎓 On a mission to become a **Native Android Developer**
 - 📱 Currently following a structured Android Roadmap** — Kotlin → Jetpack Compose → Room → Retrofit → Firebase → Portfolio App Launch
 - ⚔️ Building **Mystic Realms**, a console-based Kotlin RPG, to sharpen my OOP & logic skills while I learn
 - 🌱 Just starting out — actively learning Kotlin and building projects to get hands-on practice
-- 💼 Goal: Freelance as an Android Developer and publish real apps on the **Play Store**
+- 💼 Goal:  Android Development and publish real apps on the **Play Store**
 - 📚 Learning in public — sharing my journey one commit at a time
+- 
+- ### 🌱 Currently Learning
+- **Jetpack Compose Components** (Buttons, Dividers, etc.)
+- Building small UI practice projects
+- Understanding state & recomposition
 
 ---
 
@@ -86,4 +91,4 @@
   <a href="mailto:princerajput567478@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>⭐️ "Consistency beats intensity — one commit at a time."</i></p>
+
