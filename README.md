@@ -15,17 +15,28 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p> 
-
+---
 
 ### 🚀 About Me
 
-- 🎓 On a mission to become a **Native Android Developer**
-- 📱 Currently following a structured Android Roadmap** — Kotlin → Jetpack Compose → Room → Retrofit → Firebase → Portfolio App Launch
-- ⚔️ Building **Mystic Realms**, a console-based Kotlin RPG, to sharpen my OOP & logic skills while I learn
-- 🌱 Just starting out — actively learning Kotlin and building projects to get hands-on practice
-- 💼 Goal:  Android Development and publish real apps on the **Play Store**
-- 📚 Learning in public — sharing my journey one commit at a time
- ---
+**Current Role:** Final-year CS Student | Android Development Enthusiast
+
+**Key Strengths:**
+- ✅ Strong Kotlin fundamentals (OOP, null safety, lambdas)
+- ✅ Structured learning approach (roadmap-driven)
+- ✅ Project-based practical experience
+- ✅ Clean code & documentation practices
+- ✅ Consistent GitHub activity & version control
+
+**Technical Focus:**
+Building modern Android applications using **Kotlin** and **Jetpack Compose**, with planned expertise in Firebase, Room Database, and REST APIs.
+
+**Learning Philosophy:**
+I believe in understanding concepts deeply before implementation. Quality > Quantity. This approach takes more time but builds a sustainable career foundation.
+
+**Goal:** Launch production-ready Android apps and become a trusted freelance developer.
+
+---
  
 ### 🌱 Currently Learning (Right Now)
 
@@ -75,13 +86,7 @@
 </div>
 
 ---
-### 🎓 My Learning Philosophy
 
-> I believe in **learning properly** rather than taking shortcuts with AI.
-> 
-> I learn fundamentals first, understand how things work, then use tools to accelerate.
-> This approach takes time, but builds real, lasting skills.
----
 ### 📫 Connect With Me
 
 <p align="left">
