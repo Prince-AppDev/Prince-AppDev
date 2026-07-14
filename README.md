@@ -25,8 +25,10 @@
 - 🌱 Just starting out — actively learning Kotlin and building projects to get hands-on practice
 - 💼 Goal:  Android Development and publish real apps on the **Play Store**
 - 📚 Learning in public — sharing my journey one commit at a time
+ ---
 - ### 🌱 Currently Learning
-- **Jetpack Compose Components** (Buttons, Dividers, etc.)
+  
+- **Jetpack Compose Components** 
 - Building small UI practice projects
 - Understanding state & recomposition
 
