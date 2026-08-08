@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Prince Rajput</h1>
 <h3 align="center">Final-Year CS Student | Aspiring Native Android Developer</h3>
 <p align="center">      
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Learning+Kotlin+%F0%9F%9A%80;Android+Apps+with+Jetpack+Compose;Aspiring+Freelance+Android+Developer;Publishing+my+first+app+on+Play+Store" alt="Typing SVG" />                                                                  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Learning+Kotlin+%F0%9F%9A%80;Android+Apps+with+Jetpack+Compose;Building+Projects+%F0%9F%92%BB"/>
+</p>
+
+<p align="center">
+[![Last Commit](https://img.shields.io/github/last-commit/Prince-AppDev/Prince-AppDev)](https://github.com/Prince-AppDev/Prince-AppDev/commits)
+[![Repo size](https://img.shields.io/github/repo-size/Prince-AppDev/Prince-AppDev)](https://github.com/Prince-AppDev/Prince-AppDev)
+[![Contributors](https://img.shields.io/github/contributors/Prince-AppDev/Prince-AppDev)](https://github.com/Prince-AppDev/Prince-AppDev/graphs/contributors)
+[![Followers](https://img.shields.io/github/followers/Prince-AppDev?label=Follow&style=social)](https://github.com/Prince-AppDev)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Prince-AppDev.Prince-AppDev)](https://github.com/Prince-AppDev)
 </p>
 
 ---
