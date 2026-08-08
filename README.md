@@ -7,7 +7,13 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p> 
+  
+  [![Last Commit](https://img.shields.io/github/last-commit/Prince-AppDev/Prince-AppDev)](https://github.com/Prince-AppDev/Prince-AppDev/commits)
+  [![Repo size](https://img.shields.io/github/repo-size/Prince-AppDev/Prince-AppDev)](https://github.com/Prince-AppDev/Prince-AppDev)
+  [![Followers](https://img.shields.io/github/followers/Prince-AppDev?label=Follow&style=social)](https://github.com/Prince-AppDev)
+  [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Prince-AppDev.Prince-AppDev)](https://github.com/Prince-AppDev)
+  
+</p>
 
 ---
 
