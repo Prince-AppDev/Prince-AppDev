@@ -1,0 +1,38 @@
+name: generate snake animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Prince-AppDev
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Checkout output branch
+        uses: actions/checkout@v4
+        with:
+          ref: output
+          path: output_branch
+          fetch-depth: 0
+
+      - name: Copy SVG files to output branch
+        run: |
+          cp dist/github-contribution-grid-snake.svg output_branch/github-contribution-grid-snake.svg
+          cp dist/github-contribution-grid-snake-dark.svg output_branch/github-contribution-grid-snake-da
