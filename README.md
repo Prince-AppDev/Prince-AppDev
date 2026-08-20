@@ -77,16 +77,6 @@ I believe in understanding concepts deeply before implementation. Quality > Quan
 
 ---
 
-### 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prince-AppDev&theme=react-dark&hide_border=true)](https://github.com/Prince-AppDev)
-
-</div>
-
----
-
 ### 📫 Connect With Me
 
 <p align="left">
