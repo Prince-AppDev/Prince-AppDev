@@ -77,11 +77,24 @@ I believe in understanding concepts deeply before implementation. Quality > Quan
 
 ---
 
+### 🐍 GitHub Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prince-AppDev/Prince-AppDev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prince-AppDev/Prince-AppDev/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Prince-AppDev/Prince-AppDev/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
 ### 📫 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:princerajput567478@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
 
