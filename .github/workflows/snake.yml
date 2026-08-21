@@ -1,27 +1,45 @@
 name: generate snake animation
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
-      - name: Generate GitHub contribution snake
-        uses: Platane/snk/svg-only@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub contribution snake (light)
+        uses: Platane/snk-svg-only@v3
         with:
           github_user_name: Prince-AppDev
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake SVGs to output branch
+      - name: Generate GitHub contribution snake (dark)
+        uses: Platane/snk-svg-only@v3
+        with:
+          github_user_name: Prince-AppDev
+          palette: github-dark
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg
+
+      - name: List generated files
+        run: |
+          echo "Dist contents:" && ls -la dist || true
+
+      - name: Publish dist to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
