@@ -59,37 +59,6 @@ I believe in understanding concepts deeply before implementation. Quality > Quan
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prince-AppDev&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-AppDev&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-AppDev&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
-
-</div>
-
----
-
-### 🐍 GitHub Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prince-AppDev/Prince-AppDev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prince-AppDev/Prince-AppDev/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Prince-AppDev/Prince-AppDev/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
 
 ### 📫 Connect With Me
 
