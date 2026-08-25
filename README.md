@@ -37,6 +37,10 @@ I believe in understanding concepts deeply before implementation. Quality > Quan
 **Goal:** Launch production-ready Android apps.
 
 ---
+
+![snake gif](https://github.com/Prince-AppDev/Prince-AppDev/blob/output/github-snake-dark.svg)
+
+ ---
  
 ### 🌱 Currently Learning (Right Now)
 
