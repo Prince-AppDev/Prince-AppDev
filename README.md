@@ -16,22 +16,13 @@
 </p>
 
 ---
+### About 
 
-### 🚀 About Me
+🚀 Final-year CS Student | Android Developer passionate about Kotlin & Jetpack Compose
+📱 Building modern Android applications with clean code principles
+💡 Strong in OOP, null safety, and structured learning approaches
+🎯 Goal: Launch production-ready Android apps that solve real problems
 
-**Current Role:** Final-year CS Student | Android Development Enthusiast
-
-**Key Strengths:**
-- ✅ Strong Kotlin fundamentals (OOP, null safety, lambdas)
-- ✅ Structured learning approach (roadmap-driven)
-- ✅ Project-based practical experience
-- ✅ Clean code & documentation practices
-- ✅ Consistent GitHub activity & version control
-
-**Technical Focus:**
-Building modern Android applications using **Kotlin** and **Jetpack Compose**, with planned expertise in **Firebase**, **Room Database**, and **REST APIs**.
-
-**Learning Philosophy:**
 I believe in understanding concepts deeply before implementation. Quality > Quantity. This approach takes more time but builds a sustainable career foundation.
 
 **Goal:** Launch production-ready Android apps.
@@ -41,18 +32,6 @@ I believe in understanding concepts deeply before implementation. Quality > Quan
 ![snake gif](https://github.com/Prince-AppDev/Prince-AppDev/blob/output/github-snake-dark.svg)
 
  ---
- 
-### 🌱 Currently Learning (Right Now)
-
-- 🎨 **Jetpack Compose Components** - Buttons, Dividers, Text, Cards
-- 🎓 **Small Practice Projects** - Building UI components
-- 📚 **Understanding State** - How recomposition works
-- 💡 **Best Practices** - Professional code structure
-
-**Next Focus:** Master all Compose components before moving to advanced topics
-
- ---
-
 
 ### 📌 Featured Projects
 
