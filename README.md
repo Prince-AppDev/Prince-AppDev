@@ -35,10 +35,10 @@ I believe in understanding concepts deeply before implementation. Quality > Quan
 
 ### 📌 Featured Projects
 
-| Project | Tech Stack | Description | Checkout |
-|---------|-----------|-------------|--------|
-| ⚔️ **Mystic Realms V2** | Kotlin | Console RPG with combat, inventory, XP system | https://github.com/Prince-AppDev/Mystic-Realms |
-| 📱 **Android UI Project Coffee Time** | Jetpack Compose Ui | Learning Compose fundamentals | https://github.com/Prince-AppDev/Coffee-Time-App|
+| Project | Tech Stack | Description | Checkout | Status |
+|---------|-----------|-------------|--------|--------|
+| ⚔️ **Mystic Realms V2** | Kotlin With Oops Concepts | Console RPG with combat, inventory, XP system | https://github.com/Prince-AppDev/Mystic-Realms | In Progress |
+| 📱 **Android UI Project Coffee Time** | Jetpack Compose with Material-3 Ui | Coffe Time only App Screens | https://github.com/Prince-AppDev/Coffee-Time-App| Planning to add Room DB and Ktor |
 
 ---
 
