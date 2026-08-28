@@ -35,9 +35,9 @@ I believe in understanding concepts deeply before implementation. Quality > Quan
 
 ### 📌 Featured Projects
 
-| Project | Tech Stack | Description | Status |
+| Project | Tech Stack | Description | Checkout |
 |---------|-----------|-------------|--------|
-| ⚔️ **Mystic Realms V2** | Kotlin | Console RPG with combat, inventory, XP system | 🚧 In Progress |
+| ⚔️ **Mystic Realms V2** | Kotlin | Console RPG with combat, inventory, XP system | https://github.com/Prince-AppDev/Mystic-Realms |
 | 📱 **Upcoming: Android UI Project** | Jetpack Compose | Learning Compose fundamentals | 🎓 Planning |
 
 ---
