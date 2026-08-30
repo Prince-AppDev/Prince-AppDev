@@ -29,10 +29,6 @@ I believe in understanding concepts deeply before implementation. Quality > Quan
 
 ---
 
-![snake gif](https://github.com/Prince-AppDev/Prince-AppDev/blob/output/github-snake-dark.svg)
-
- ---
-
 ### 📌 Featured Projects
 
 | Project | Tech Stack | Description | Checkout | Status |
@@ -42,6 +38,9 @@ I believe in understanding concepts deeply before implementation. Quality > Quan
 
 ---
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-AppDev"></img>
+
+![snake gif](https://github.com/Prince-AppDev/Prince-AppDev/blob/output/github-snake-dark.svg)
 
 ### 📫 Connect With Me
 
