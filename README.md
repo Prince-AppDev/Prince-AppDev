@@ -20,7 +20,7 @@
 
 🚀 Final-year CS Student | Android Developer passionate about Kotlin & Jetpack Compose
 📱 Building modern Android applications with clean code principles
-💡 Strong in OOP, null safety, and structured learning approaches
+💡 Strong in OOP, null safety, and structured learning approaches for Android development 
 🎯 Goal: Launch production-ready Android apps that solve real problems
 
 I believe in understanding concepts deeply before implementation. Quality > Quantity. This approach takes more time but builds a sustainable career foundation.
