@@ -33,7 +33,7 @@ I believe in understanding concepts deeply before implementation. Quality > Quan
 
 | Project | Tech Stack | Description | Checkout | Status |
 |---------|-----------|-------------|--------|--------|
-| ⚔️ **Mystic Realms V2** | Kotlin With Oops Concepts | Console RPG with combat, inventory, XP system | https://github.com/Prince-AppDev/Mystic-Realms | In Progress |
+| ⚔️ **Mystic Realms V2** | Kotlin With Oops Concepts | Console RPG with combat, inventory, XP system | https://github.com/Prince-AppDev/Mystic-Realms | Planning to Add More Locations and Characters  |
 | 📱 **Android UI Project Coffee Time** | Jetpack Compose with Material-3 Ui | Coffe Time only App Screens | https://github.com/Prince-AppDev/Coffee-Time-App| Planning to add Room DB and Ktor |
 
 ---
