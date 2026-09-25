@@ -42,7 +42,7 @@ I believe in understanding concepts deeply before implementation. Quality > Quan
 
 ![snake gif](https://github.com/Prince-AppDev/Prince-AppDev/blob/output/github-snake-dark.svg)
 
-### 📫 Connect With Me
+### 📫 Connect With Me via 
 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
